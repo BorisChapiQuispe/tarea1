@@ -1,0 +1,39 @@
+.padre
+{
+    background-color: blue;
+    padding: 61px 60px 61px 61px;
+}
+.caja1
+{
+    background-color: chartreuse;
+    padding: 61px 60px 61px 60px;
+}
+.caja2
+{
+    background-color: crimson;
+    padding: 61px 60px 61px 60px;
+}
+.caja3
+{
+    background-color: brown;
+    padding: 61px 60px 61px 60px;
+}
+.caja4
+{
+    background-color:burlywood;
+    padding: 61px 60px 61px 60px;
+}
+.caja5
+{
+    background-color:darkcyan;
+    padding: 61px 60px 61px 60px;
+}
+.caja6
+{
+    background-color:yellow;
+    padding: 61px 60px 61px 60px;
+}
+.caja6 h1
+{
+    text-align: center;
+}
